@@ -2,4 +2,4 @@
 
 ## Run
 ``` npm install ```
-``` node server.js ```
+``` node src/app.js ```
